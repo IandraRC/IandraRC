@@ -18,7 +18,7 @@
   <img align="center" alt="Iandra-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Iandra-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Iandra-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="right" alt="IandraRC" height="150" style="border-radius:50px;" src="http://ryanseslow.com/](https://media0.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif?cid=ecf05e470rrsqi0bkprkp3xslteqwzbkm6jpght4zktkgw48&rid=giphy.gif&ct=g">
+  <img align="right" alt="IandraRC" height="150" style="border-radius:50px;" src=Elas.gif>
   <img align="right" alt="IandraRC" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/112444792/187324019-872a5efb-5022-41e4-93b7-cea85c6ddf05.png">
 </div>
 
