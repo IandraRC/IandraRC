@@ -44,7 +44,7 @@ Adoro jogos! você também pode me encontrar em:
 <a href=" " target="blank"><img align="center" src="Steam.png" height="30" /></a>
 
 
-Estou nesse curso devido ao grande interesse que despertei após participar de uma iniciação científica onde realiazei aprogramação de um robô e um elevador. Nesse projeto utilizei a linguagem C++, cujo a qual foi meu primeiro contato com a lógica de programação.
+Estou na área de programação devido ao grande interesse que despertei após participar de uma iniciação científica, onde realiazei a programação de um robô e um elevador. Nesse projeto utilizei a linguagem C++, cujo a qual foi meu primeiro contato com a lógica de programação.
 
 
  
