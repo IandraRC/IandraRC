@@ -37,11 +37,11 @@
 Adoro jogos! você também pode me encontrar em: 
 
 <a href="https://discord.gg/NaXJ2KxU" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/LoL.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/IandraRC/IandraRC/blob/main/imagem_2022-08-30_223041025.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Xbox.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
+<a href="Mihocchin" target="blank"><img align="center" src="Epic.png" height="30" /></a> 
+<a href="Mihocchin" target="blank"><img align="center" src="LoL.png" height="30" /></a>
+<a href="Mihocchin" target="blank"><img align="center" src="https://github.com/IandraRC/IandraRC/blob/main/imagem_2022-08-30_223041025.png" height="30" /></a>
+<a href="Mihocchin" target="blank"><img align="center" src="Xbox.png" height="30" /></a> 
+<a href="Mihocchin" target="blank"><img align="center" src="Steam.png" height="30" /></a>
 
 
 Estou nesse curso devido ao grande interesse que despertei após participar de uma iniciação científica onde realiazei aprogramação de um robô e um elevador. Nesse projeto utilizei a linguagem C++, cujo a qual foi meu primeiro contato com a lógica de programação.
