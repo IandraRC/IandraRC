@@ -31,4 +31,5 @@
   <a href="https://linkedin.com/in/iandra-cauzzo-49368521b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+ <img align="right" alt="IandraRC" height="150" style="border-radius:50px;" src="Ela.gif"/>
  
