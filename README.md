@@ -27,9 +27,9 @@
 ##
 
 </div> 
-  <a href = "mailto:contatoiandracauzzo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:iandracauzzo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/iandra-cauzzo-49368521b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
- <img align="right" alt="IandraRC" height="150" style="border-radius:50px;" src="Ela.gif"/>
+<img align="right" alt="IandraRC" height="150" style="border-radius:50px;" src="Ela.gif"/>
  
