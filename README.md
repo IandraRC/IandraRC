@@ -6,7 +6,7 @@
 - ⌨ Hoje trabalho como freelance.
 
 
-<div align="center"
+<div align="center">
 
 
  
