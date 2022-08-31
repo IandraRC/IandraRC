@@ -37,7 +37,7 @@
 Adoro jogos! você também pode me encontrar em: 
 
 <a href="https://discord.gg/NaXJ2KxU" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="Epic.png" height="30" /></a> 
+<a href="https://www.google.com/search?q=porno+de+anao&client=opera-gx&hs=qzq&tbm=isch&sxsrf=ALiCzsZQht5s_U1751ka8-GYEGiQI7kUkw:1661970009329&source=lnms&sa=X&ved=2ahUKEwi466Hg2PH5AhWApZUCHcfFDrkQ_AUoAnoECAEQBA&biw=1879&bih=939&dpr=1" target="blank"><img align="center" src="Epic.png" height="30" /></a> 
 <a href="https://br.op.gg/summoners/br/Mihoocchin" target="blank"><img align="center" src="LoL.png" height="30" /></a>
 <a href="https://tracker.gg/valorant/profile/riot/Mihocchin%230104/overview" target="blank"><img align="center" src="https://github.com/IandraRC/IandraRC/blob/main/imagem_2022-08-30_223041025.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="Xbox.png" height="30" /></a> 
