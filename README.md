@@ -1,7 +1,7 @@
 ### Olá, eu sou a Iandra Cauzzo 👋
 
 - 📕 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 💻 Gosto de trabalhar com testing e automação.
+- 💻 Gosto de trabalhar com desenvolvimento em front end, testing e automação.
 - ⌨ Hoje trabalho como freelancer.
 
 
@@ -31,5 +31,20 @@
   <a href="https://linkedin.com/in/iandra-cauzzo-49368521b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<img align="right" alt="IandraRC" height="150" style="border-radius:50px;" src="Ela.gif"/>
+<img align="right" width="138" height="138" src="Ela.gif"></a>
+
+### Fun Facts about me:
+Adoro jogos! você também pode me encontrar em: 
+
+<a href="https://discord.gg/NaXJ2KxU" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/LoL.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/IandraRC/IandraRC/blob/main/imagem_2022-08-30_223041025.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Xbox.png" height="30" /></a> 
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
+
+
+Estou nesse curso devido ao grande interesse que despertei após participar de uma iniciação científica onde realiazei aprogramação de um robô e um elevador. Nesse projeto utilizei a linguagem C++, cujo a qual foi meu primeiro contato com a lógica de programação.
+
+
  
