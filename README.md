@@ -1,9 +1,8 @@
 ### Olá, eu sou a Iandra Cauzzo 👋
 
-- 😄 Pronouns:Ela/Dela!
 - 📕 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 💻 Gosto de trabalhar com testing e automação.
-- ⌨ Hoje trabalho como freelance.
+- ⌨ Hoje trabalho como freelancer.
 
 
 <div align="center">
