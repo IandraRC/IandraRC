@@ -1,6 +1,6 @@
 ### Olá, eu sou a Iandra Cauzzo 👋
 
-- 📕 Estou cursando Análise e Desenvolvimento de Sistemas.
+- 📕 Formada em Análise e Desenvolvimento de Sistemas.
 - 💻 Gosto de trabalhar com desenvolvimento em front end, testing e automação.
 - ⌨ Hoje trabalho como freelancer.
 
