@@ -34,7 +34,7 @@
 <img align="right" width="138" height="138" src="Ela.gif"></a>
 
 ### Fun Facts about me:
-Adoro jogos! você também pode me encontrar em: 
+Adoro jogos! Você também pode me encontrar em: 
 
 <a href="https://discord.gg/GEgTBKE" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
 <a href="https://br.op.gg/summoners/br/Mihoocchin" target="blank"><img align="center" src="LoL.png" height="30" /></a>
