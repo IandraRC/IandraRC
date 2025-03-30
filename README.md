@@ -1,4 +1,4 @@
-### Olá, eu sou a Iandra Cauzzo 👋
+### Hi there! I'm Iandra Cauzzo 👋
 
 - 📕 Formada em Análise e Desenvolvimento de Sistemas.
 - 💻 Gosto de trabalhar com desenvolvimento em front end, testing e automação.
