@@ -38,7 +38,7 @@
 
 </br>
 
-<img align="right" width="138" height="138" src="Ela.gif"></a>
+<img align="right" width="138" height="138" src="Eu.png"></a>
 
 ### Fun Facts about me
 I love games! You can also find me on: 
