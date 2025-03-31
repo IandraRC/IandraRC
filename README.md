@@ -6,12 +6,14 @@
 - 🤖 Currently studying RPA with UiPath
 
 </div> 
-  <a href = "mailto:iandracauzzo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+  <a href = "mailto:iandracauzzo1@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-iandracauzzo1@gmail.com-%23333?style=for-the-badge&logo=mention&logoColor=white"></a>
   <a href="https://linkedin.com/in/iandra-cauzzo-49368521b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/IandraRC?tab=repositories" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" target="_blank"></a>
+  <a href="Local"><img src="https://custom-icon-badges.demolab.com/badge/Campinas-BR-%23333?style=for-the-badge&logo=location&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/IandraRC?tab=repositories" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-hotpink?style=for-the-badge&logoColor=white&logo=repo" target="_blank"></a>
 </div>
 
-##
+
 <div align="center">
  <a href="https://github.com/IandraRC/">
 
