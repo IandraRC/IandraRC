@@ -15,7 +15,7 @@
 
 </br>
 
-### 🌐 Languages ​​and Technologies
+### Languages ​​and Technologies
 
 <div style="display: inline_block"><br>
   
@@ -28,7 +28,7 @@
 </br>
 </br>
 
-### 📊 Statistic
+### Statistic
 <div align="center">
  <a href="https://github.com/IandraRC/">
 
@@ -36,18 +36,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IandraRC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-##
-
+</br>
 
 <img align="right" width="138" height="138" src="Ela.gif"></a>
 
-### Fun Facts about me:
-Adoro jogos! Você também pode me encontrar em: 
+### Fun Facts about me
+I love games! You can also find me on: 
 
 <a href="https://discord.gg/GEgTBKE" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
 <a href="https://br.op.gg/summoners/br/Mihoocchin" target="blank"><img align="center" src="LoL.png" height="30" /></a>
-<a href="https://tracker.gg/valorant/profile/riot/Mihocchin%230104/overview" target="blank"><img align="center" src="https://github.com/IandraRC/IandraRC/blob/main/imagem_2022-08-30_223041025.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="Epic.png" height="30" /></a> 
 <a href=" " target="blank"><img align="center" src="Xbox.png" height="30" /></a> 
 <a href=" " target="blank"><img align="center" src="Steam.png" height="30" /></a>
 
