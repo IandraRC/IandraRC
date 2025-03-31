@@ -1,4 +1,4 @@
-### ![emoji_chibi_inline](https://github.com/user-attachments/assets/18b0807b-7e45-479d-a67c-01d1b84cab5a) Hi, I'm Iandra Cauzzo
+### Hi, I'm Iandra Cauzzo
 
 - 🎓 Graduate in Systems Analysis and Development
 - 🎨 Enthusiast of UI design, front-end, and visual creation
