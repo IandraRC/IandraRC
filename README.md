@@ -1,8 +1,9 @@
-### Hi there! I'm Iandra Cauzzo 👋
+### Hi, I'm Iandra Cauzzo
 
-- 📕 Formada em Análise e Desenvolvimento de Sistemas.
-- 💻 Gosto de trabalhar com desenvolvimento em front end, testing e automação.
-- ⌨ Hoje trabalho como freelancer.
+- 🎓 Graduate in Systems Analysis and Development
+- 🎨 Enthusiast of UI design, front-end, and visual creation
+- 📰 Creator of the news portal *IDV News* — responsible for the entire process: design, development, publishing, and maintenance
+- 🤖 Currently studying RPA with UiPath
 
 
 <div align="center">
