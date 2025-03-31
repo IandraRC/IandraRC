@@ -2,7 +2,7 @@
 
 - 🎓 Graduate in Systems Analysis and Development
 - 🎨 Enthusiast of UI design, front-end, and visual creation
-- 📰 Creator of the news portal *IDV News* — responsible for the entire process: design, development, publishing, and maintenance
+- 📰 Creator of the news portal "[IDV News](idvnews.com.br)" — responsible for the entire process: design, development, publishing, and maintenance
 - 🤖 Currently studying RPA with UiPath
 
 
