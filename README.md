@@ -46,5 +46,5 @@ I love games! You can also find me on:
 <a href="https://discord.gg/GEgTBKE" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
 <a href="https://www.op.gg/summoners/br/Mihocchin-0104" target="blank"><img align="center" src="LoL.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="Xbox.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="Steam.png" height="30" /></a>
+<a href="https://steamcommunity.com/id/mihocchin/" target="blank"><img align="center" src="Steam.png" height="30" /></a>
 
