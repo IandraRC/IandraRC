@@ -1,9 +1,9 @@
 ### Hi, I'm Iandra Cauzzo
 
 - 🎓 Graduate in Systems Analysis and Development
-- 🎨 Enthusiast of UI design, front-end, and visual creation
+- 🎨 Focused on Artificial Intelligence applied to content creation
 - 📰 Creator of the news portal "[IDV News](https://idvnews.com.br)" — responsible for the entire process: design, development, publishing, and maintenance
-- 🤖 Currently studying RPA with UiPath
+- 🧠 Continuous learner, exploring how AI can optimize creative and technical processes
 
 </div> 
 <div align="center">
